@@ -12,7 +12,6 @@ URL:		http://www.winterdrache.de/freeware/png2ico/index.html
 License:	GPL
 Group:		Graphics
 BuildRequires:	libpng-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 Converts PNG files to Windows icon resource files. If you're looking
