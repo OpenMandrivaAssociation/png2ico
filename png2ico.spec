@@ -1,7 +1,7 @@
 %define name	png2ico
 %define version	20021208
 %define date	2002-12-08
-%define release	%mkrel 6
+%define release	%mkrel 7
 
 Name:		%{name}
 Version:	%{version}
