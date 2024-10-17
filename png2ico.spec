@@ -6,7 +6,7 @@ Version:	20021208
 Release:	15
 License:	GPLv2+
 Group:		Graphics
-Url:		http://www.winterdrache.de/freeware/png2ico/index.html
+Url:		https://www.winterdrache.de/freeware/png2ico/index.html
 Source0:	http://www.winterdrache.de/freeware/png2ico/data/%{name}-src-%{date}.tar.bz2
 Patch0:		png2ico-20021208-gcc49.patch
 BuildRequires:	pkgconfig(libpng)
